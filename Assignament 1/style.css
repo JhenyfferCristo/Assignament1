@@ -1,0 +1,58 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 0;
+  padding: 0px;
+  font-size: 18px;
+  color: rgb(50, 50, 50);
+}
+html {
+  height: 100%;
+}
+
+body {
+  padding: 10px;
+  height: 100%;
+}
+#pagTitle {
+  font-size: 30px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+h1:hover {
+  background-color: rgb(196, 196, 196);
+  border-radius: 10px;
+}
+footer,
+footer p {
+  text-align: center;
+  align-content: center;
+  font-size: 13px;
+}
+
+ul li img {
+  width: 13px;
+}
+
+ul {
+  margin-right: 20px;
+  padding: 30px;
+}
+
+.gitLink {
+  width: 35px;
+  margin: 15px;
+  font-size: 10px;
+}
+
+.opening {
+  text-align: center;
+  padding: 20px;
+}
+
+footer {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+}
